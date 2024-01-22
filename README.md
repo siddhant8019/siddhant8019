@@ -66,7 +66,7 @@
 ## View My Stats
 <p align="left">
 
-<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_Logo_1.png&psig=AOvVaw3BaW-X-UQO1EZIpoREHdDq&ust=1706003447342000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPi1rqHc8IMDFQAAAAAdAAAAABAE' alt='Siddhant' style="width:40px;"/></a>
+<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png' alt='Siddhant' style="width:40px;"/></a>
 
 </p>
 
