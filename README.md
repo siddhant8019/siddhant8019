@@ -66,7 +66,7 @@
 ## View My Stats
 <p align="left">
 
-<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png' alt='Siddhant' style="width:40px;"/></a>
+<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png' alt='Siddhant' style="width:60px;"/></a>
 
 </p>
 
