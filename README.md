@@ -66,16 +66,13 @@
 ## View My Stats
 <p align="left">
 
-<a href='https://auth.geeksforgeeks.org/user/siddharthkothari655/practice/' target='_blank' rel="noopener noreferrer"><img src='./gfg.svg' alt='' style="width:50px;"/></a>
-<a href='https://www.codechef.com/users/siddharth_997' target='_blank' rel="noopener noreferrer"><img src='./codechef.svg' alt='' style="width:40px;"/></a>
-<a href='https://leetcode.com/siddharth_997/' target='_blank' rel="noopener noreferrer"><img src='./leetcode.svg' alt='' style="width:40px;"/></a>
+<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='./leetcode.svg' alt='' style="width:40px;"/></a>
 
 </p>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/1-siddharth-kothari/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/siddharth_997/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/siddhantnpatil/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
