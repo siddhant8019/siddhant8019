@@ -12,7 +12,7 @@
 
 - 👯 Facilitator of **[Google 2022](GoogleFacilitator.jpeg)**
 
-- ✨ Former **[Intern at Humancloud, Inc. Pune]**
+- ✨ Former **[Software Engineer Intern at Humancloud, Inc. Pune]**
 
 <br/>
 
