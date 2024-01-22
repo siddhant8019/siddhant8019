@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="./Hi.gif" width="30px">, I'm Siddhant
 </h1>
-<h3 align="center"><b>I'm a self motivated tech enthusiast. Software Engineer .</b></h3>
+<h3 align="center"><b>A self motivated tech enthusiast. Software Engineer .</b></h3>
 
 <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
 
