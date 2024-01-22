@@ -66,7 +66,7 @@
 ## View My Stats
 <p align="left">
 
-<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='./leetcode.svg' alt='' style="width:40px;"/></a>
+<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='./leetcode.svg' alt='Siddhant' style="width:40px;"/></a>
 
 </p>
 
