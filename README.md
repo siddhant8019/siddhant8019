@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ Some highlights about me
 
-- 🔭 I’m studying Computer Science at **California State University Long Beach**.
+- 👨🏻‍🎓 I’m studying Computer Science at **California State University Long Beach**.
 
-- 👯 Facilitator of **[Google 2022](GoogleFacilitator.jpeg)**
+- 🧑🏻‍🏫 Facilitator of **[Google 2022](GoogleFacilitator.jpeg)**
 
-- ✨ Former **[Software Engineer Intern at Humancloud, Inc. Pune]**
+- 👨🏻‍💻 Former **[Software Engineer Intern at Humancloud, Inc. Pune]**
 
 <br/>
 
