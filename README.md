@@ -33,7 +33,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" alt="postgresql" width="45" height="45"/></a>
-    <a href="https://www.java.com/en/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_%2528programming_language%2529&psig=AOvVaw1U84Xu6d_xsJOURuG6jXiQ&ust=1706002982633000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODM1cLa8IMDFQAAAAAdAAAAABAI" alt="java" width="45" height="45"/></a>
+    <a href="https://www.java.com/en/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0azWb7Rl8nurvcSMYBgDVjG0YDP56OGYFaA&usqp=CAU" alt="java" width="45" height="45"/></a>
     
 </div>
 
