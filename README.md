@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
 
-<p align="left"> <a href='https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2'><img src="https://github-profile-trophy.vercel.app/?username=siddhant8019" alt="siddhant8019" /></a> </p>
+<!-- <p align="left"> <a href='https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2'><img src="https://github-profile-trophy.vercel.app/?username=siddhant8019" alt="siddhant8019" /></a> </p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant8019&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant8019" /> </p> -->
 
 ## 🙋‍♂️ Some highlights about me
