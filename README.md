@@ -42,7 +42,7 @@ Empowered non-tech decision-makers with a full-stack dashboard visualizing machi
 
 ## 👀 I’m Looking For...
 
-- 🔍 AI/ML Engineer or Software Engineer roles at **startups solving real problems**
+- 🔍 AI/ML Engineer or Software Engineer roles at **teams solving real problems**
 - 🤝 Teams where shipping fast meets thinking deep
 - 🧠 Mentorship & collaboration on LLMs, infra, and AI-native tools
 
