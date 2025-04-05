@@ -1,83 +1,66 @@
+# 👋 Hey, I’m Siddhant Patil — Let’s Build the Future
 
-<h1 align="center">Hi <img src="./Hi.gif" width="30px">, I'm Siddhant
-</h1>
-<h3 align="center"><b>A self motivated tech enthusiast. Software Engineer .</b></h3>
+> *"I'm not just here to code. I'm here to ship fast, fail smart, and build what matters."*
 
-<img align="right" alt="GIF" src="code.gif" width="400" height="300" />
+I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending deep tech with sharp execution. From writing production-ready APIs to fine-tuning ML models that power decisions, I’m driven by the art of turning bold ideas into high-impact products.
 
-<!-- <p align="left"> <a href='https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2'><img src="https://github-profile-trophy.vercel.app/?username=siddhant8019" alt="siddhant8019" /></a> </p> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant8019&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant8019" /> </p> -->
+---
 
-## 🙋‍♂️ Some highlights about me
+## 🚀 About Me
 
-- 🌱 I’m studying Computer Science at **California State University Long Beach**.
+- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduating May 2025)
+- 🧠 Passionate about **AI-first product engineering** — from prototypes to scalable systems
+- 🧰 Startup-ready: 2x software engineer at lean, fast-moving orgs
+- 💡 Driven by curiosity, caffeine, and a love for clean abstractions
 
-- 🧑🏻‍🏫 Facilitator of **[Google 2022](GoogleFacilitator.jpeg)**
+---
 
-- 👨🏻‍💻 Former **[Software Engineer Intern at Humancloud, Inc. Pune]**
+## 💼 Highlights
 
-<br/>
+### 👁️ Eye-Tracking-Based Alcohol Impairment Detection  
+Built a pipeline that predicts BAC using eye movement with 85% accuracy. Integrated MLflow and deployed anomaly detection for real-time safety signals.  
+**Stack:** Python, OpenCV, XGBoost, MLflow
 
-**🚀 Languages and Tools:**
+### 🛒 Real-Time E-Commerce Platform  
+Built and deployed a highly responsive e-commerce system that handled 10K+ visits/month with zero downtime.  
+**Stack:** Next.js, MongoDB, CMS, Stripe API
 
-<div > 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1712188800&v=beta&t=TA14zKgP6EFMytA6qUH7TpSpZ738siSBLN1b2FIUIgI" width="45" height="40" alt="expressJs"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_3s3rtdlrt7ac1.png" alt="python" width="45" height="45"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/postgres/logo.png" alt="postgresql" width="45" height="45"/></a>
-    <a href="https://www.java.com/en/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0azWb7Rl8nurvcSMYBgDVjG0YDP56OGYFaA&usqp=CAU" alt="java" width="45" height="45"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    
-</div>
+### 📊 Decision Intelligence Dashboard  
+Empowered non-tech decision-makers with a full-stack dashboard visualizing machine learning logic in real-time.  
+**Stack:** Next.js, Node.js, PostgreSQL
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
 
-<p align="center">
-    <a href="https://github.com/siddhant8019/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Siddhant Patil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant8019&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+## 🛠 Tech Stack
 
-## 📊 My Github Stats
+**Languages:** Python, JavaScript/TypeScript, SQL, C++, Java  
+**ML/AI:** PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost  
+**Web/Backend:** React, Node.js, Next.js, Django, GraphQL  
+**Data & DevOps:** PostgreSQL, MongoDB, Firebase, Docker, AWS, GCP, CI/CD  
 
-  <br/>
-    <a href="https://github.com/siddhant8019/github-readme-stats"><img alt="Siddhant Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=siddhant8019&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/siddhant8019/github-readme-stats"><img alt="Siddhant Patil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant8019&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
 
-<br/>
-<br/>
+## 👀 I’m Looking For...
 
-## View My Stats
-<p align="left">
+- 🔍 AI/ML Engineer or Software Engineer roles at **startups solving real problems**
+- 🤝 Teams where shipping fast meets thinking deep
+- 🧠 Mentorship & collaboration on LLMs, infra, and AI-native tools
 
-<a href='https://leetcode.com/Siddhant8019/' target='_blank' rel="noopener noreferrer"><img src='https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png' alt='Siddhant' style="width:60px;"/></a>
+---
 
-</p>
+## 📫 Let’s Connect
 
-## Connect with me:
-<p align="left">
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddhantnpatil/)
+- 💻 [GitHub](https://github.com/siddhant8019)
+- 📧 [Email](mailto:sidhnpatil08@gmail.com)
 
-<a href = "https://www.linkedin.com/in/siddhantnpatil/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+---
 
-</p>
+## 💬 Bonus Bits
+
+- Believe in lean systems, tight feedback loops, and good espresso ☕  
+- Currently building → always learning → never settling
+
+---
+
+> *“Great products are built by people who care enough to prototype, iterate, and dare greatly.”*
