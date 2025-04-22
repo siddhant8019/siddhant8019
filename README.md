@@ -21,6 +21,10 @@ I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending de
 Built a pipeline that predicts BAC using eye movement with 85% accuracy. Integrated MLflow and deployed anomaly detection for real-time safety signals.  
 **Stack:** Python, OpenCV, XGBoost, MLflow
 
+### 🤖 LLM-Powered Document Q&A  
+Engineered a PDF Q&A system using a Retrieval‑Augmented Generation (RAG) pipeline. Chunks & embeds contract text via GCP Vertex AI and OpenAI API, serving contextual answers through a Next.js interface with source citations.  
+**Stack:** Next.js, Node.js, LangChain, GCP Vertex AI, OpenAI API
+
 ### 🛒 Real-Time E-Commerce Platform  
 Built and deployed a highly responsive e-commerce system that handled 10K+ visits/month with zero downtime.  
 **Stack:** Next.js, MongoDB, CMS, Stripe API
@@ -34,7 +38,7 @@ Empowered non‑tech decision‑makers with a full‑stack dashboard visualizing
 ## 🛠 Tech Stack
 
 **Languages:** Python · JavaScript/TypeScript · SQL · C++ · Java  
-**ML/AI:** PyTorch · TensorFlow · Hugging Face · scikit‑learn · XGBoost  
+**ML/AI:** PyTorch · TensorFlow · Hugging Face · scikit‑learn · XGBoost · LangChain  
 **Web/Backend:** React · Node.js · Next.js · Django · GraphQL  
 **Data & DevOps:** PostgreSQL · MongoDB · Firebase · Docker · AWS · GCP · CI/CD  
 
