@@ -8,10 +8,10 @@ I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending de
 
 ## 🚀 About Me
 
-- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduating May 2025)
-- 🧠 Passionate about **AI-first product engineering** — from prototypes to scalable systems
-- 🧰 Startup-ready: 2x software engineer at lean, fast-moving orgs
-- 💡 Driven by curiosity, caffeine, and a love for clean abstractions
+- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduating May 2025)  
+- 🧠 Passionate about **AI-first product engineering** — from prototypes to scalable systems  
+- 🧰 Startup-ready: 2× software engineer at lean, fast-moving orgs  
+- 💡 Driven by curiosity, caffeine, and a love for clean abstractions  
 
 ---
 
@@ -26,33 +26,34 @@ Built and deployed a highly responsive e-commerce system that handled 10K+ visit
 **Stack:** Next.js, MongoDB, CMS, Stripe API
 
 ### 📊 Decision Intelligence Dashboard  
-Empowered non-tech decision-makers with a full-stack dashboard visualizing machine learning logic in real-time.  
+Empowered non‑tech decision‑makers with a full‑stack dashboard visualizing machine learning logic in real time.  
 **Stack:** Next.js, Node.js, PostgreSQL
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript/TypeScript, SQL, C++, Java  
-**ML/AI:** PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost  
-**Web/Backend:** React, Node.js, Next.js, Django, GraphQL  
-**Data & DevOps:** PostgreSQL, MongoDB, Firebase, Docker, AWS, GCP, CI/CD  
+**Languages:** Python · JavaScript/TypeScript · SQL · C++ · Java  
+**ML/AI:** PyTorch · TensorFlow · Hugging Face · scikit‑learn · XGBoost  
+**Web/Backend:** React · Node.js · Next.js · Django · GraphQL  
+**Data & DevOps:** PostgreSQL · MongoDB · Firebase · Docker · AWS · GCP · CI/CD  
 
 ---
 
 ## 👀 I’m Looking For...
 
-- 🔍 AI/ML Engineer or Software Engineer roles at **teams solving real problems**
-- 🤝 Teams where shipping fast meets thinking deep
-- 🧠 Mentorship & collaboration on LLMs, infra, and AI-native tools
+- 🔍 AI/ML Engineer or Software Engineer roles at **teams solving real problems**  
+- 🤝 Teams where shipping fast meets thinking deep  
+- 🧠 Mentorship & collaboration on LLMs, infra, and AI‑native tools  
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/siddhantnpatil/)
-- 💻 [GitHub](https://github.com/siddhant8019)
-- 📧 [Email](mailto:sidhnpatil08@gmail.com)
+- 🌐 Personal Site: [siprofile.me](https://siprofile.me)  
+- 🔗 LinkedIn: [linkedin.com/in/siddhantnpatil](https://www.linkedin.com/in/siddhantnpatil/)  
+- 💻 GitHub: [github.com/siddhant8019](https://github.com/siddhant8019)  
+- 📧 Email: [sidhnpatil08@gmail.com](mailto:sidhnpatil08@gmail.com)
 
 ---
 
