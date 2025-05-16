@@ -3,7 +3,7 @@
 > *"I'm not just here to code. I'm here to ship fast, fail smart, and build what matters."*
 
 I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending deep tech with sharp execution. From writing production-ready APIs to fine-tuning ML models that power decisions, I’m driven by the art of turning bold ideas into high-impact products.
-
+plkjhgvfcdx
 ---
 
 ## 🚀 About Me
