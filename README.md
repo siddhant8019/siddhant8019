@@ -8,7 +8,7 @@ I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending de
 
 ## 🚀 About Me
 
-- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduating May 2025)  
+- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduated May 2025)  
 - 🧠 Passionate about **AI-first product engineering** — from prototypes to scalable systems  
 - 🧰 Startup-ready: 2× software engineer at lean, fast-moving orgs  
 - 💡 Driven by curiosity, caffeine, and a love for clean abstractions  
