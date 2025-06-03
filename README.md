@@ -1,71 +1,68 @@
-# 👋 Hey, I’m Siddhant Patil — Let’s Build the Future
+# 👋 Hey, I'm Siddhant Patil
 
-> *"I'm not just here to code. I'm here to ship fast, fail smart, and build what matters."*
-
-I'm a startup-minded **AI/ML Engineer** and **Full Stack Developer** blending deep tech with sharp execution. From writing production-ready APIs to fine-tuning ML models that power decisions, I’m driven by the art of turning bold ideas into high-impact products.
-
----
-
-## 🚀 About Me
-
-- 🎓 Master's in Computer Science @ **CSU Long Beach** (Graduated May 2025)  
-- 🧠 Passionate about **AI-first product engineering** — from prototypes to scalable systems  
-- 🧰 Startup-ready: 2× software engineer at lean, fast-moving orgs  
-- 💡 Driven by curiosity, caffeine, and a love for clean abstractions  
+🎓 Master’s in Computer Science @ CSULB  
+🛠️ Ex-SWE at Humancloud | AI/LLM Engineer | Full Stack Builder  
+🔍 Focused on building interpretable, scalable, and intelligent systems that bridge research with real-world impact.
 
 ---
 
-## 💼 Highlights
+## 🔬 Featured Projects
 
-### 👁️ Eye-Tracking-Based Alcohol Impairment Detection  
-Built a pipeline that predicts BAC using eye movement with 85% accuracy. Integrated MLflow and deployed anomaly detection for real-time safety signals.  
-**Stack:** Python, OpenCV, XGBoost, MLflow
-
-### 🤖 LLM-Powered Document Q&A  
-Engineered a PDF Q&A system using a Retrieval‑Augmented Generation (RAG) pipeline. Chunks & embeds contract text via GCP Vertex AI and OpenAI API, serving contextual answers through a Next.js interface with source citations.  
-**Stack:** Next.js, Node.js, LangChain, GCP Vertex AI, OpenAI API
-
-### 🛒 Real-Time E-Commerce Platform  
-Built and deployed a highly responsive e-commerce system that handled 10K+ visits/month with zero downtime.  
-**Stack:** Next.js, MongoDB, CMS, Stripe API
-
-### 📊 Decision Intelligence Dashboard  
-Empowered non‑tech decision‑makers with a full‑stack dashboard visualizing machine learning logic in real time.  
-**Stack:** Next.js, Node.js, PostgreSQL
+### 📄 LLM-Based Document Query Engine
+**Tech:** FastAPI · LangChain · VertexAI · RAG · Docker  
+Ask questions to your documents—semantically.  
+Built an end-to-end secure document QnA platform using embedding search + agents.  
+> Reduced query latency by 35%, integrated session-based chat & semantic search.
 
 ---
 
-## 🛠 Tech Stack
+### 👁️ Eye-Tracking Alcohol Impairment Detection
+**Tech:** XGBoost · RandomForest · MLflow · Python  
+Trained models to detect BAC using horizontal gaze nystagmus patterns.  
+> Achieved 85% accuracy in BAC detection, 92% in anomaly detection.  
+> MLflow-based experiment tracking enabled faster model iteration.
 
-**Languages:** Python · JavaScript/TypeScript · SQL · C++ · Java  
-**ML/AI:** PyTorch · TensorFlow · Hugging Face · scikit‑learn · XGBoost · LangChain  
-**Web/Backend:** React · Node.js · Next.js · Django · GraphQL  
-**Data & DevOps:** PostgreSQL · MongoDB · Firebase · Docker · AWS · GCP · CI/CD  
-
----
-
-## 👀 I’m Looking For...
-
-- 🔍 AI/ML Engineer or Software Engineer roles at **teams solving real problems**  
-- 🤝 Teams where shipping fast meets thinking deep  
-- 🧠 Mentorship & collaboration on LLMs, infra, and AI‑native tools  
+[Repo →](https://github.com/siddhant8019/eye_based-analysis)
 
 ---
 
-## 📫 Let’s Connect
-
-- 🌐 Personal Site: [siprofile.me](https://siprofile.me)  
-- 🔗 LinkedIn: [linkedin.com/in/siddhantnpatil](https://www.linkedin.com/in/siddhantnpatil/)  
-- 💻 GitHub: [github.com/siddhant8019](https://github.com/siddhant8019)  
-- 📧 Email: [sidhnpatil08@gmail.com](mailto:sidhnpatil08@gmail.com)
-
----
-
-## 💬 Bonus Bits
-
-- Believe in lean systems, tight feedback loops, and good espresso ☕  
-- Currently building → always learning → never settling
+### 🧠 Rule-Driven Data Validation Engine
+**Tech:** Python · Pydantic · PostgreSQL · YAML/JSON  
+Deployed a flexible, config-driven validation microservice.  
+> Boosted data reliability to 99% for financial reports.  
+> No redeploys needed for rule updates. Perfect for ops-heavy teams.
 
 ---
 
-> *“Great products are built by people who care enough to prototype, iterate, and dare greatly.”*
+## 🚀 Tech Stack & Interests
+
+- **Languages:** Python, TypeScript, SQL, C/C++, Java  
+- **AI/ML:** Transformers, LangChain, XGBoost, RAG pipelines  
+- **Cloud & Infra:** GCP, AWS, Docker, K8s, CI/CD  
+- **Frontend/Backend:** React, Next.js, Svelte, FastAPI, Node.js  
+- **Other:** MLflow, Postgres, GraphQL, Firebase, Experiment Tracking
+
+---
+
+## 🤝 Open to Opportunities
+
+I’m currently open to:
+
+- 💼 Full-time opportunities in **AI/ML**, **Backend Engineering**, or **Full Stack Development**
+- 🤖 Contributing to **open-source AI tools**, **ML infrastructure**, and **LLM-powered platforms**
+- 🌍 Collaborating with forward-thinking teams on research-backed or product-driven innovation
+
+Let’s build something impactful—together.
+
+---
+
+## ✨ Let’s Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/siddhantnpatil/)  
+🌐 [Portfolio](https://siprofile.me/)  
+📋 [Medium](https://medium.com/@siddhantnitin)  
+📧 sidhnpatil08@gmail.com  
+
+---
+
+*Always experimenting with language models, distributed intelligence, and product-minded engineering.*
