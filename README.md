@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Siddhant Patil
 
 🎓 Master’s in Computer Science @ CSULB  
-🛠️ Ex-SWE at Humancloud | AI/LLM Engineer | Full Stack Builder  
+🛠️ Ex-SWE at Humancloud | AI/LLM Engineer | Full Stack Builder  |
 🔍 Focused on building interpretable, scalable, and intelligent systems that bridge research with real-world impact.
 
 ---
