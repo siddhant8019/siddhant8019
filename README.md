@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Siddhant Nitin
+# 👋 Hey, I'm Siddhant Patil
 
 🎓 Master’s in Computer Science @ CSULB  
 🛠️ Ex-SWE at Humancloud | AI/LLM Engineer | Full Stack Builder  
