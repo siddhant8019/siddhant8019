@@ -1,153 +1,66 @@
-# 👋 Siddhant Patil  
-**AI Engineer · Agent Systems Builder · Applied Systems Thinker**
+# 👋 Siddhant Patil
+**Founder @ Black Robotics 🤖 | 2x founding AI engineer | robotics + AI | MS CS @CSULB**
 
-🎓 Master’s in Computer Science, CSULB  
-🧠 Founding Member at Teamcast & Humancloud  
-🌉 Building production-grade agentic systems where models, data, and constraints actually meet
+🤖 Founder, **Black Robotics** — data pipelines for humanoid robot training
+🎯 Founding AI Engineer, **Teamcast.ai** — hiring intelligence
+🎓 M.S. Computer Science, CSULB · 📍 Mountain View, CA
 
----
-
-## What I Work On Now
-
-Most AI failures today aren’t model problems.  
-They’re **systems problems**.
-
-I build AI systems that hold up under real conditions: partial data, changing rules, compliance constraints, and long-running workflows. My focus is not “smart outputs” but **stable decision pipelines**.
-
-Concretely, that means working on:
-
-- Agent orchestration that survives retries, drift, and partial failure  
-- Retrieval systems where correctness and provenance matter  
-- Evaluation and validation layers that make AI auditable, not magical  
-- Backend infrastructure that treats AI like software, not demos
-
-This work sits at the intersection of **LLMs, backend systems, and applied decision logic**, where most teams currently struggle to ship.
+I build AI systems that hold up under real conditions — partial data, changing rules, and the messy seam where models meet the physical world.
 
 ---
 
-## Selected Systems I’ve Built
+## What I'm Building Now
 
-### 🤖 Teamcast.ai — Hiring as a Decision System  
-**FastAPI · LangChain · Vertex AI · Postgres · Docker · GCP**
+### 🤖 Black Robotics
+🌐 [blackrobotics.tech](https://blackrobotics.tech)
 
-Teamcast reframes hiring from “resume matching” to **constraint-based decision making**.
-
-- Designed a RAG pipeline that separates evidence retrieval from judgment  
-- Built candidate validation layers to prevent hallucinated fit  
-- Integrated global hiring compliance via Deel as a first-class system constraint  
-- Reduced recruiter workload by ~70% by removing manual screening loops
-
-This system forced hard tradeoffs between speed, explainability, and trust — not prompt tricks.
+The bottleneck for humanoid robots isn't models — it's **standardized, high-quality training data**. Teleoperation logs, sim rollouts, and demonstration data live in fragmented formats across labs and embodiments. Black Robotics is building the pipeline layer that makes this data trainable, comparable, and portable across platforms.
 
 ---
 
-### 🧠 PALADIN — Autonomous Sales Intelligence  
-**CrewAI · n8n · PostgreSQL · Node.js · GCP**
+### 🎯 Teamcast.ai
+**FastAPI · async Python · Pydantic v2 · SSE streaming · Postgres · GCP**
 
-PALADIN is a multi-agent system for turning noisy internet data into usable sales intelligence.
-
-- Agents handle scraping, enrichment, deduplication, and reconciliation independently  
-- Designed idempotent workflows to prevent cascading data corruption  
-- Built validation gates to stop low-confidence entities from entering CRMs  
-- Optimized for long-running, retry-heavy execution rather than one-shot calls
-
-This project taught me that **agent reliability matters more than agent cleverness**.
-
----
-
-### 📄 Document Intelligence Engine  
-**FastAPI · LangChain · Vertex AI · RAG · Docker**
-
-Internal document Q&A system built for correctness, not vibes.
-
-- Explicit separation between retrieval, synthesis, and answer validation  
-- Streaming responses with confidence-aware fallback paths  
-- Reduced query latency ~35% through retrieval optimization and caching  
-- Designed to support audits, not just answers
-
----
-
-### 🧪 Rule-Driven Data Validation Engine  
-**Python · Pydantic · PostgreSQL · YAML/JSON**
-
-A config-driven validation service for high-volume financial data pipelines.
-
-- Rules live outside code to avoid redeploys under regulatory change  
-- Real-time validation with full traceability and explainability  
-- Achieved ~99% data reliability in compliance-heavy workflows
-
-This system reinforced a core belief: **AI without validation is just technical debt**.
-
----
-
-### 👁️ Eye-Tracking Alcohol Impairment Detection  
-**XGBoost · Random Forest · MLflow · Python**
-
-ML system analyzing gaze nystagmus patterns to estimate BAC levels.
-
-- ~85% BAC detection accuracy  
-- ~92% anomaly detection accuracy  
-- MLflow-based experiment tracking reduced iteration cycles ~40%
-
-🔗 https://github.com/siddhant8019/eye_based-analysis
+Hiring reframed as **constraint-based decision making**. I work across the stack:
+ 
+- **AI assessment** — three decoupled pipelines (pre-interview scaffolds, real-time signal routing, post-interview scoring)
+- **Integrations** — Apollo, Greenhouse, Deel
+- **GTM engine** — 5-agent outbound system with ICP signal pipelines
+- **Observability** — Arize Phoenix for eval loops and audit trails
+- **Ops** — investor outreach, CAB tracking, onboarding, seed-raise support
 
 ---
 
 ## How I Think About AI Systems
 
-I optimize for:
+- Determinism over surprise
+- Evaluation before scale
+- Infrastructure before prompting
+- Constraints before cleverness
 
-- **Determinism over surprise**  
-- **Evaluation before scale**  
-- **Infrastructure before prompting**  
-- **Constraints before cleverness**
-
-If a system can’t explain why it acted, retry safely, or adapt to rule changes, it’s not production-ready.
+If a system can't explain why it acted, retry safely, or adapt when rules change, it's not production-ready.
 
 ---
 
-## Technical Focus
+## Writing
 
-**Languages**  
-Python, TypeScript, SQL, C/C++, Java
+I publish on **Physical AI and robotics first** — humanoid foundation models, embodied AI, fleet deployment — with LLM and agent infrastructure as secondary scope.
 
-**LLMs & Agents**  
-RAG architectures, agent orchestration, evaluation loops, tool-use design
+Style: contrarian, benchmark-driven, systems-thinker framing. No hype, no hedging.
 
-**Backend & Infra**  
-FastAPI, Node.js, Postgres, Redis, Docker, Kubernetes, CI/CD
-
-**Data & Ops**  
-Validation systems, observability, experiment tracking, workflow orchestration
-
-**Frontend (when needed)**  
-Next.js, React, API-first product surfaces
+✍️ [medium.com/@siddhantnitin](https://medium.com/@siddhantnitin)
 
 ---
 
-## Beyond Code
+## Stack
 
-- Built **Tutor’s Town**, an education marketplace with real-time scheduling and feedback loops  
-- Actively involved in founder and operator circles at **TechCrunch Disrupt**, **HR Tech**, and **GITEX Global**  
-- Currently building **GTM Engine**, a personalized, agent-driven go-to-market system — not a generic workflow tool, but one designed around our specific sales motion, data signals, and decision constraints.
-
----
-
-## What I’m Open To
-
-- Full-time roles in **AI Infrastructure**, **Agent Platforms**, or **Backend Systems**  
-- Founding engineer roles where AI is part of the core system, not a feature  
-- Early-stage collaborations focused on **reliability, evaluation, and scale**
+**Languages** — Python, TypeScript, SQL
+**LLMs & Agents** — RAG, agent orchestration, evaluation loops, LangGraph
+**Backend** — FastAPI, async/await, SSE, Pydantic v2, pytest, Postgres, Redis, Docker
+**Ops** — Arize Phoenix, validation systems, workflow orchestration
 
 ---
 
 ## Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/siddhantnpatil  
-💻 Portfolio: https://siprofile.me  
-✍️ Writing: https://medium.com/@siddhantnitin  
-📧 Email: sidhnpatil08@gmail.com  
-
----
-
-**I build AI systems that survive contact with reality.**
+🔗 [LinkedIn](https://www.linkedin.com/in/siddhantnpatil) · 🐦 [X](https://x.com/siddhant_8019) · 💻 [siddhantnitin.com](https://siddhantnitin.com) · 🐙 [GitHub](https://github.com/siddhant8019)
