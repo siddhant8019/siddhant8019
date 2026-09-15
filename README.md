@@ -15,15 +15,15 @@ I build AI systems that hold up under real conditions: partial data, changing ru
 
 Every number below was measured by the eval harness committed in that project, not estimated.
 
-### 🏥 PolicyDesk: permission-aware policy knowledge system
+### 🏥 PolicyDesk: the rule that applied, and proof of what was said
 **FastAPI · Postgres + pgvector · Gemini · Vercel + Supabase**
 
-Staff at a (synthetic) regional health plan ask policy questions and get answers cited to the current policy section, filtered to what their role may see. The permission filter lives inside the retrieval SQL, so restricted text never reaches ranking or the model.
+Staff at a (synthetic) regional health plan ask policy questions and get answers cited to the exact section, using the policy version in force on the member's date of service, filtered to what their role may see. When a member disputes an answer, Compliance can reconstruct it: what was said, which version it cited, and whether that version applied, all decided in code.
 
+- **13 of 13** answers right for the member's date of service, against **6 of 13** without it (0 of 6 where an older rule applied)
 - **0 of 900** unauthorized chunks reached the model (50 questions × 3 roles)
-- **95.0%** correct-and-cited answers, **100%** refusal correctness on a 50-question golden set
-- Retrieval and generation measured separately (recall@5 97.1%), p50 latency 2.9 s
-- Version resolution, conflict detection and refusals run in code, outside the model
+- **95.0%** correct-and-cited, **100%** refusal correctness on a 50-question golden set, re-run after the date-of-service change
+- Retrieval and generation measured separately (recall@5 97.1%), p50 latency 2.7 s
 
 ▶️ [Live demo](https://policydesk-nine.vercel.app) · 📄 [Case study](https://siddhantnitin.com/work/policydesk)
 
@@ -91,7 +91,7 @@ Style: contrarian, benchmark-driven, systems-thinker framing. No hype, no hedgin
 ## Stack
 
 **Languages:** Python, TypeScript, SQL
-**LLMs & Agents:** RAG, permission-aware retrieval, agent orchestration, evaluation loops, LangGraph
+**LLMs & Agents:** RAG, permission-aware retrieval, effective-date version resolution, agent orchestration, evaluation loops, LangGraph
 **Backend:** FastAPI, async/await, SSE, Pydantic v2, pytest, Postgres + pgvector, Redis, Docker
 **Ops:** Arize Phoenix, Vercel, Supabase, validation systems, workflow orchestration
 
