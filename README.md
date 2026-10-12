@@ -3,7 +3,7 @@
 
 🤖 Founder, **Black Robotics**: data pipelines for humanoid robot training
 🎯 Founding AI Engineer, **Teamcast.ai**: hiring intelligence
-🎓 M.S. Computer Science, CSULB · 📍 Mountain View, CA
+🎓 M.S. Computer Science, CSULB · 📍 Sunnyvale, CA
 
 I build AI systems that hold up under real conditions: partial data, changing rules, and the messy seam where models meet the physical world.
 
